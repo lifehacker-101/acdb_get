@@ -1,1 +1,5 @@
 acdb_data.h
+acdb_extract
+acdb_table.txt
+*.o
+*.so
